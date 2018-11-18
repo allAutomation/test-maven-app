@@ -5,5 +5,9 @@ public class Hello {
 	public static void main(String [] args) {
 		System.out.println("Hello, world!");
 	}
+	@Test
+	public void testOne(){
+		System.out.println("Hello, world!");		
+	}
 	
 }
